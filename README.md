@@ -1,4 +1,4 @@
-# 👋 hi
+# 👋 zdarova
 Data Analyst
 
 ### some skills
