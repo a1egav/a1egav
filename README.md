@@ -1,4 +1,6 @@
-# 👋
+<p align="center">
+  <img src="название_твоего_файла.gif" width="800" alt="my_gif">
+</p>
 ### 🛠️some skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
