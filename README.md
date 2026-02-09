@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="название_твоего_файла.gif" width="800" alt="my_gif">
+  <img src="pasha.gif" width="800" alt="pasha">
 </p>
 ### 🛠️some skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
